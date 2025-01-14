@@ -13,8 +13,7 @@ It also highlights attrition by job role and education field, providing insights
 
 <h2>Overview on Dashboards : </h2>
 
-Our project is composed of two dashboard pages. 
-
+Our project is composed of two fully dynamic and interactive dashboard pages. These dashboards are synchronized to provide a seamless user experience, allowing for smooth navigation between pages. The dynamic filters and slicers empower users to explore the data from various perspectives, enabling deeper insights into attrition drivers and trends.
 ![image](https://github.com/user-attachments/assets/dd9fb8a2-b1b1-4710-8580-22cf0f765e77)
 ![image](https://github.com/user-attachments/assets/09961d97-e285-478c-bfb6-92e38c35f1e4)
 
